@@ -1,0 +1,18 @@
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\bin\Debug\LichtOut.exe.config
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\bin\Debug\LichtOut.exe
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\bin\Debug\LichtOut.pdb
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.csprojResolveAssemblyReference.cache
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.LichtOut.resources
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.Properties.Resources.resources
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.csproj.GenerateResource.Cache
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.exe
+c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.exe.config
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.exe
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.exe
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.pdb
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.csprojResolveAssemblyReference.cache
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.LichtOut.resources
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.Properties.Resources.resources
+M:\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.csproj.GenerateResource.Cache
